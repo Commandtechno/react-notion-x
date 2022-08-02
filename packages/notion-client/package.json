@@ -1,5 +1,5 @@
 {
-  "name": "@commandtechno/notion-client",
+  "name": "notion-client",
   "version": "6.12.12",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
